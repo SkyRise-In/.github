@@ -1,3 +1,3 @@
-# Hello! 👋
+# Skyrise Github Profile
 
-We are SkyRise, a company that focuses on code!
+This repo contains the files for the github profile.
