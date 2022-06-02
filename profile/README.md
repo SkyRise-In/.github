@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello👋!!
 
 <!--
 
@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Skyrise is a group that focuses on making developer tools and software to help with web development.
+Skyrise is a group that focuses on making developer tools and software to help with web development. Our software runs on platsforms such as Python, HTML, and Salesforce. 
