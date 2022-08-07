@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Skyrise is a group that focuses on making developer tools and software that help with web development. Our software runs on technology such as Python, HTML, and Salesforce.
+We are a group of young programmers who strive to learn and use programing languages such as Python along with platforms like Salesforce. Our Goal is to create developer tools and software.
